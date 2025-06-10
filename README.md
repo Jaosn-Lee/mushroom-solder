@@ -2,9 +2,9 @@
 # Schematic:
 ![schematic ss](https://github.com/user-attachments/assets/11c42e39-aa7b-4941-9819-cbe12622b898)
 # PCB :
-![Screenshot 2025-06-10 201813](https://github.com/user-attachments/assets/9cc5090c-887b-4035-8b84-1b9d3348c322)
+![solder pxb ss](https://github.com/user-attachments/assets/3d453628-7847-499c-8242-70227bc9d9bd)
 # 3d view :
-![Screenshot 2025-06-10 201824](https://github.com/user-attachments/assets/2498d035-681a-4f9a-8ddc-9dfcb673796b)
+![solder 3dv ss](https://github.com/user-attachments/assets/927fdaf9-f43b-44a6-a402-e025459b795a)
 
 # BOM :
 - 1x battery holder
